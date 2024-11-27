@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Aset!<br/></h1>
 
-<!--
-**vvgeneral/vvgeneral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🙂 About Me</h2>
+I am Aset, an 18 year old IT enthusiast! When I was 16, I was first introduced to IT because I heard it was a well paying job. At first, I only studied for it for the good pay. After spending some time learning IT, I developed a passion for it. Now it is my dream to pursue an IT career, and I hope to benefit the world with my expertise!
 
-Here are some ideas to get you started:
+<h2>👨‍💻 My Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>AWS</b>
+  - [Cloud Resume Challenge](https://github.com/vvgeneral/cloud-resume-challenge)
+  - [NIST 800-53rev5 Compliant Environment](https://github.com/vvgeneral/AWS-Control-Design-Workshop)
+- <b>Python</b>
+  - [Russian Roulette](https://github.com/vvgeneral/pythonprojectrr)
+- <b>Soon To Come</b>
+  - Active Directory Home Lab
+  - AWS AD Connect
+  - AWS Honeypot
+  - Snort Alerting and Automated Response
+
+
